@@ -4,7 +4,7 @@
 
 ## SECTION 1 : PROJECT TITLE
 ## Emotion Detector for Online Interview
-[![Video Interview](https://www.roberthalf.com/sites/default/files/2018-04/video-interview-tips-rh-2018.jpg)
+![Video Interview](https://www.roberthalf.com/sites/default/files/2018-04/video-interview-tips-rh-2018.jpg)
 
 ---
 
@@ -51,6 +51,7 @@ https://github.com/kahghi/PRS-PM-2020-06-20-IS02PT-GRP13-Emotion-Detector/blob/m
 ## SECTION 7 : Appendices
 
 `Refer to Github Folder: Miscellaneous`
+### Data
 
 ### Individual Project Report
 Individual reflection of project journey
