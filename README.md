@@ -37,14 +37,14 @@ In this project, our group has proposed a solution, named Emotion Detector. Emot
 
 `Refer to Installation and Operation Guide at Github Folder: ProjectReport`
 
-https://github.com/kahghi/IRS-PM-2020-01-18-IS02PT-GRP08-CPF_Investment_Advisor/blob/master/ProjectReport/Installation%20and%20User%20Guide_REV01.pdf
+https://github.com/kahghi/PRS-PM-2020-06-20-IS02PT-GRP13-Emotion-Detector/blob/master/ProjectReport/Installation%20and%20Operation%20Guide.pdf
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 `Refer to project report at Github Folder: ProjectReport`
 
-https://github.com/kahghi/IRS-PM-2020-01-18-IS02PT-GRP08-CPF_Investment_Advisor/blob/master/ProjectReport/ISS-IRS-Group%208_Project%20Report%20REV04.pdf
+https://github.com/kahghi/PRS-PM-2020-06-20-IS02PT-GRP13-Emotion-Detector/blob/master/ProjectReport/ISS-PRS-Group%2013_Project%20Report%20REV03.pdf
 
 
 ---
